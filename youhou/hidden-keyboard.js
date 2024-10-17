@@ -1,12 +1,14 @@
 // ==UserScript==
-// @name        hidden-keyboard
-// @namespace   https://github.com/nelvko/script/youhou/hidden-keyboard.js
+// @name        隐藏键盘
+// @namespace   https://github.com/nelvko/script/blob/master/youhou/hidden-keyboard.js
 // @match        *://www.edclub.com/sportal/*
 // @match        *://www.typingclub.com/sportal/*
 // @grant       none
 // @version     1.0
 // @author      nelvko
-// @description 2024/10/17 16:56:20
+// @description 闯关时隐藏下面的键盘（原vip功能）
+// @updateURL https://raw.githubusercontent.com/nelvko/script/refs/heads/master/youhou/hidden-keyboard.js
+// @downloadURL https://raw.githubusercontent.com/nelvko/script/refs/heads/master/youhou/hidden-keyboard.js
 // ==/UserScript==
 (function () {
     'use strict';
