@@ -4,7 +4,7 @@
 // @match        *://*.edclub.com/sportal/*
 // @match        *://*.typingclub.com/sportal/*
 // @grant       none
-// @version     1.0
+// @version     1.1
 // @author      nelvko
 // @license MIT
 // @description 闯关时隐藏下面的键盘
