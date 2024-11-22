@@ -1,5 +1,5 @@
 let today = new Date().getDate()
-const flag = JSON.parse($prefs.valueForKey("clash_headers_flag"))
+const flag = JSON.parse($prefs.valueForKey("clash_headers_flag") || -1)
 if (today === flag) {
   $done({})
 }
